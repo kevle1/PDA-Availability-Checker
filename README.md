@@ -1,5 +1,5 @@
 # PDA Availability Checker
-Checks the WA Department of Transport Practical Driving Assessment Booking availability. 
+Checks the WA Department of Transport Practical Driving Assessment Bookings availability. 
 
 This was made very quick so there may be some issues, it definitely could be refined. But was just for a mate so instead of refreshing the DOT page every few minutes and having to go through each step and menu to check availability, this just printed out the list.  
 
@@ -31,14 +31,16 @@ DOT West Perth has availability: 08/06/2020 at 1:50 PM
 DOT West Perth has availability: 09/06/2020 at 7:55 AM
 ...
 ```
-What it can't do:
- - Anything other than Class C 
- - Driving Instructor 
- - Overseas Licence 
- - Single Name
+Limitations: 
+ - Class C Only (Well whatever is selected by default)
+ - Driving Instructor Bookings 
+ - Overseas Licence Bookings 
+ - Single Name Bookings 
+ - Earliest Availability Only 
+ - Metro Only 
+ 
+(Maybe later idk)
  
  Sleeps all over the place or page won't load quick enough. If your internet is fast enough yeah sure but even then might not be able to keep up. 
- 
- (Maybe later idk)
  
  Not liable for any damages, don't spam the DOT.
