@@ -33,9 +33,9 @@ DOT West Perth has availability: 09/06/2020 at 7:55 AM
 ```
 Limitations: 
  - Class C Only (Well whatever is selected by default)
- - Driving Instructor Bookings 
- - Overseas Licence Bookings 
- - Single Name Bookings 
+ - No Driving Instructor Bookings 
+ - No Overseas Licence Bookings 
+ - No Single Name Bookings 
  - Earliest Availability Only 
  - Metro Only 
  
