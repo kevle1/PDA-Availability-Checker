@@ -1,5 +1,5 @@
 # PDA Availability Checker
-Checks the WA Department of Transport Practical Driving Assessment Bookings 
+Checks the WA Department of Transport Practical Driving Assessment Booking availability. 
 
 This was made very quick so there may be some issues, it definitely could be refined. But was just for a mate so instead of refreshing the DOT page every few minutes and having to go through each step and menu to check availability, this just printed out the list.  
 
